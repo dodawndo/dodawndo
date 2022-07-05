@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   
 
 ### :deciduous_tree:stats:deciduous_tree:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodawndoa&hide=contribs&count_private=true&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodawndo&hide=contribs&count_private=true&show_icons=true&theme=buefy)
 
 <!--  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodawndo&layout=compact)](https://github.com/dodawndo/github-readme-stats)
