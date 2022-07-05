@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0A99C3&height=100&section=header&text=Hello!&fontColor=FFFFFF&animation=twinkling&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0A99C3&height=200&section=header&text=Hello!&fontColor=FFFFFF&animation=twinkling&fontSize=40)
 
   
 ### 안녕하세요! 열심히 공부중인 신입개발자 김도은 입니다! :hatched_chick:
