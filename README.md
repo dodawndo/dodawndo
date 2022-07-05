@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=Hello!&animation=twinkling&fontSize=40)
 
-  
+<br>  
 ### 안녕하세요! 열심히 공부중인 신입개발자 김도은 입니다! :hatched_chick:
-  
+<br>
+<br>  
   
 ### :icecream:skill:icecream:
 
@@ -36,16 +37,18 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  
+<br>
+<br>  
 
   
   
 ### :deciduous_tree:stats:deciduous_tree:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodawndo&count_private=true&show_icons=true&theme=buefy)
-
+<br>
+<br>  
   
 
-####:email:docoding_@naver.com  
+#### :email: docoding_@naver.com  
   
   
 <!--  
