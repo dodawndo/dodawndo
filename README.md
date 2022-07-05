@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=Hello!&animation=twinkling&fontSize=40)
 
-<br>  
+  
 ### 안녕하세요! 열심히 공부중인 신입개발자 김도은 입니다! :hatched_chick:
 <br>
 <br>  
@@ -49,6 +49,9 @@ Here are some ideas to get you started:
   
 
 #### :email: docoding_@naver.com  
+ 
+  
+
   
   
 <!--  
