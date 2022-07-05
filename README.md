@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=Hello!&animation=twinkling&fontSize=40)
 
-안녕하세요! 열심히 공부중인 신입개발자 김도은 입니다! :hatched_chick:
+  
+### 안녕하세요! 열심히 공부중인 신입개발자 김도은 입니다! :hatched_chick:
+  
   
 ### :icecream:skill:icecream:
 
@@ -36,11 +38,19 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   
 
+  
+  
 ### :deciduous_tree:stats:deciduous_tree:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodawndo&count_private=true&show_icons=true&theme=buefy)
 
+  
+
+####:email:docoding_@naver.com  
+  
+  
 <!--  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodawndo&layout=compact)](https://github.com/dodawndo/github-readme-stats)
 -->  
+
   
 </div>
