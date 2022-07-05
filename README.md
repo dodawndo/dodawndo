@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   
   
-:cherries:<h2>skill</h2>:cherries:
+<h2>:icecream:skill:icecream:</h2>
 
 <img src="https://img.shields.io/badge/Java-EB1B23?style=flat-square&logo=Java&logoColor=white"/>  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  
