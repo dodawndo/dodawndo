@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=80&section=header&text=Hello!&animation=twinkling&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=Hello!&animation=twinkling&fontSize=40)
 
 안녕하세요! 열심히 공부중인 신입개발자 김도은 입니다! :hatched_chick:
   
-## :icecream:skill:icecream:
+### :icecream:skill:icecream:
 
 <img src="https://img.shields.io/badge/Java-EB1B23?style=flat-square&logo=Java&logoColor=white"/>  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  
@@ -36,9 +36,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   
 
-## :rainbow:Used Languages:rainbow:
-  
+### :rainbow:stats:rainbow:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodawndo&show_icons=true&theme=radical)
+
+<!--  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodawndo&layout=compact)](https://github.com/dodawndo/github-readme-stats)
-  
+-->  
   
 </div>
