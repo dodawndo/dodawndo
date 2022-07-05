@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   
 
-### :rainbow:stats:rainbow:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodawndo&show_icons=true&theme=radical)
+### :deciduous_tree:stats:deciduous_tree:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodawndoa&hide=contribs&count_private=true&show_icons=true&theme=buefy)
 
 <!--  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodawndo&layout=compact)](https://github.com/dodawndo/github-readme-stats)
