@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=120&section=header&text=Hello&animation=twinkling&fontSize=50)
 <div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=120&section=header&text=Hello!&animation=twinkling&fontSize=50)
 
   
   
 :cherries:<h2>skill</h2>:cherries:
+
 <img src="https://img.shields.io/badge/Java-EB1B23?style=flat-square&logo=Java&logoColor=white"/>  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  
