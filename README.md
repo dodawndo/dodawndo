@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=120&section=header&text=Hello&animation=twinkling&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=120&section=header&text=Hello&animation=twinkling&fontSize=50)
 <div align=center>
 
   
