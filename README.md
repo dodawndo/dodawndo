@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hello&fontSize=90)
 <div align=center>
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hello👋&fontSize=90)
+
   
   
 :cherries:<h2>skill</h2>:cherries:
