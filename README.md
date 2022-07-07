@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 ### 안녕하세요! 열심히 공부중인 신입개발자 김도은 입니다! :hatched_chick:
 <br>
- 
+<br> 
   
 ### :icecream:skill:icecream:
 
